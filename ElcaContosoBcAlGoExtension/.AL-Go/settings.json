@@ -1,0 +1,10 @@
+{
+  "environments": [
+    {
+      "name": "ELCA_ENVIRONMENT",
+      "type": "Sandbox",
+      "environmentName": "ELCA-DEV-BC-1",
+      "tenant": "57989ee3-4a14-44f1-8455-33eaabb38c12"
+    }
+  ]
+}
