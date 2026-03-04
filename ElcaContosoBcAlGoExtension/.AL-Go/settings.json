@@ -1,7 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.2/.Modules/settings.schema.json",
+  "country": "ch",
   "environments": [
-    {
+    {      
       "name": "ELCA-DEV-BC-1",
       "type": "Sandbox",
       "environmentName": "ELCA-DEV-BC-1",
