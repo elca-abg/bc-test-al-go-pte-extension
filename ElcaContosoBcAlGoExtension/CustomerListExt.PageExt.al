@@ -3,6 +3,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('Demo techtalk');
+        Message('Techtalk demo text');
     end;
 }
